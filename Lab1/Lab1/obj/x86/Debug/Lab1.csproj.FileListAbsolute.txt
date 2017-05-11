@@ -1,0 +1,9 @@
+c:/users/s0000722894/documents/visual studio 2010/Projects/Lab1/Lab1/bin/Debug/Lab1.exe
+c:/users/s0000722894/documents/visual studio 2010/Projects/Lab1/Lab1/bin/Debug/Lab1.pdb
+c:/users/s0000722894/documents/visual studio 2010/Projects/Lab1/Lab1/obj/x86/Debug/Lab1.exe
+c:/users/s0000722894/documents/visual studio 2010/Projects/Lab1/Lab1/obj/x86/Debug/Lab1.pdb
+/Users/Nicola/Documents/Ingegneria del Software/Esercitazioni/Lab1/Lab1/bin/Debug/Lab1.exe
+/Users/Nicola/Documents/Ingegneria del Software/Esercitazioni/Lab1/Lab1/bin/Debug/Lab1.pdb
+/Users/Nicola/Documents/Ingegneria del Software/Esercitazioni/Lab1/Lab1/obj/x86/Debug/Lab1.csproj.CoreCompileInputs.cache
+/Users/Nicola/Documents/Ingegneria del Software/Esercitazioni/Lab1/Lab1/obj/x86/Debug/Lab1.exe
+/Users/Nicola/Documents/Ingegneria del Software/Esercitazioni/Lab1/Lab1/obj/x86/Debug/Lab1.pdb
