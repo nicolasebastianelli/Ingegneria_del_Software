@@ -1,0 +1,7 @@
+C:\Users\s0000722894\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\s0000722894\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\s0000722894\Desktop\Lab4\Lab4\obj\x86\Debug\Lab4.Properties.Resources.resources
+C:\Users\s0000722894\Desktop\Lab4\Lab4\obj\x86\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\s0000722894\Desktop\Lab4\Lab4\obj\x86\Debug\Lab4.exe
+C:\Users\s0000722894\Desktop\Lab4\Lab4\obj\x86\Debug\Lab4.pdb
+C:\Users\s0000722894\Desktop\Lab4\Lab4\obj\x86\Debug\Lab4.LogForm.resources

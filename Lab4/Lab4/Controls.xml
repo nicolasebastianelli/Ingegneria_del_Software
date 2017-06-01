@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Form>
+  <Control type="System.Windows.Forms.Button" assembly="System.Windows.Forms, version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <Top>200</Top>
+    <Left>10</Left>
+    <Width>100</Width>
+    <Height>40</Height>
+    <Text>Start</Text>
+  </Control>
+  <Control type="System.Windows.Forms.Button" assembly="System.Windows.Forms, version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <Top>200</Top>
+    <Left>120</Left>
+    <Width>100</Width>
+    <!-- Questa proprietà non esiste! -->
+    <WidthX>100</WidthX>
+    <Height>40</Height>
+    <Text>Stop</Text>
+  </Control>
+  <Control type="System.Windows.Forms.TextBox" assembly="System.Windows.Forms, version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <Top>160</Top>
+    <Left>10</Left>
+    <Width>150</Width>
+    <Text>Sei a buon punto!</Text>
+  </Control>
+  <!-- In questo caso il nome dell'assembly è incompleto! -->
+  <Control type="System.Windows.Forms.TextBox" assembly="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <Top>160</Top>
+    <Left>200</Left>
+    <Width>150</Width>
+  </Control>
+  <!-- Questo controllo non appartiene ancora al programma in esecuzione! -->
+  <Control type="Prova2Controls.MyControl" assembly="Prova2Controls">
+    <Top>10</Top>
+    <Left>10</Left>
+    <CellWidth>50</CellWidth>
+    <CellHeight>25</CellHeight>
+  </Control>
+</Form>

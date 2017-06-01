@@ -1,0 +1,45 @@
+
+Creazione del controllo:
+  Tipo = System.Windows.Forms.Button
+  Assembly = System.Windows.Forms, version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Proprietà: Top, valore: 200
+Proprietà: Left, valore: 10
+Proprietà: Width, valore: 100
+Proprietà: Height, valore: 40
+Proprietà: Text, valore: Start
+Creazione Ok!
+
+Creazione del controllo:
+  Tipo = System.Windows.Forms.Button
+  Assembly = System.Windows.Forms, version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Proprietà: Top, valore: 200
+Proprietà: Left, valore: 120
+Proprietà: Width, valore: 100
+Proprietà: WidthX, valore: 100
+-- Proprietà errata o non esistente!
+Proprietà: Height, valore: 40
+Proprietà: Text, valore: Stop
+Creazione Ok!
+
+Creazione del controllo:
+  Tipo = System.Windows.Forms.TextBox
+  Assembly = System.Windows.Forms, version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Proprietà: Top, valore: 160
+Proprietà: Left, valore: 10
+Proprietà: Width, valore: 150
+Proprietà: Text, valore: Sei a buon punto!
+Creazione Ok!
+
+Creazione del controllo:
+  Tipo = System.Windows.Forms.TextBox
+  Assembly = System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089
+-- Creazione fallita!
+
+Creazione del controllo:
+  Tipo = Prova2Controls.MyControl
+  Assembly = Prova2Controls
+Proprietà: Top, valore: 10
+Proprietà: Left, valore: 10
+Proprietà: CellWidth, valore: 50
+Proprietà: CellHeight, valore: 25
+Creazione Ok!
