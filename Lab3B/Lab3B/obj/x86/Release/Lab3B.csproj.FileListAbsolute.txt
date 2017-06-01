@@ -1,0 +1,6 @@
+C:\Users\s0000722894\Documents\Visual Studio 2010\Projects\Lab3B\Lab3B\obj\x86\Release\Lab3.Presentation.EditingControl.resources
+C:\Users\s0000722894\Documents\Visual Studio 2010\Projects\Lab3B\Lab3B\obj\x86\Release\Lab3.Presentation.EditingDialog.resources
+C:\Users\s0000722894\Documents\Visual Studio 2010\Projects\Lab3B\Lab3B\obj\x86\Release\Lab3.Presentation.MainForm.resources
+C:\Users\s0000722894\Documents\Visual Studio 2010\Projects\Lab3B\Lab3B\obj\x86\Release\Lab3.Presentation.SelectDialog.resources
+C:\Users\s0000722894\Documents\Visual Studio 2010\Projects\Lab3B\Lab3B\obj\x86\Release\Lab3B.Properties.Resources.resources
+C:\Users\s0000722894\Documents\Visual Studio 2010\Projects\Lab3B\Lab3B\obj\x86\Release\Lab3B.csproj.GenerateResource.Cache

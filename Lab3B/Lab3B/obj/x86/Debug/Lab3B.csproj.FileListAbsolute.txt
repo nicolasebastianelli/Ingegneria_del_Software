@@ -1,0 +1,11 @@
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\bin\Debug\Lab3B.exe
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\bin\Debug\Lab3B.pdb
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3.Presentation.EditingControl.resources
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3.Presentation.EditingDialog.resources
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3.Presentation.MainForm.resources
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3.Presentation.SelectDialog.resources
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3B.Properties.Resources.resources
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3B.csproj.GenerateResource.Cache
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3B.exe
+c:\users\s0000722894\documents\visual studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3B.pdb
+C:\Users\s0000722894\Documents\Visual Studio 2010\Projects\Lab3B\Lab3B\obj\x86\Debug\Lab3B.csprojResolveAssemblyReference.cache
