@@ -1,0 +1,9 @@
+C:\Users\s0000722894\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\s0000722894\Desktop\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\s0000722894\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.Presentation.EditingDialog.resources
+C:\Users\s0000722894\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.Presentation.MainForm.resources
+C:\Users\s0000722894\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.Presentation.SelectDialog.resources
+C:\Users\s0000722894\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+C:\Users\s0000722894\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\s0000722894\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+C:\Users\s0000722894\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
